@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="./header.png" alt="Header Banner" width="100%" />
+</div>
+
+<br/>
+
 ❤️ hey! i'm Júlia. welcome to my page! ✨
 
 💼 Perfil
