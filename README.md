@@ -1,16 +1,34 @@
-## Hi there 👋
+❤️ hey! i'm Júlia. welcome to my page! ✨
 
-<!--
-**juliaa-pg/juliaa-pg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 Perfil
 
-Here are some ideas to get you started:
+* 💻 estudante de ciência da computação
+* 📊 focada na área de dados e análise
+* ⚡ movida a curiosidade e bons desafios
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Tecnologias & Ferramentas
+
+🗄️ Bancos de Dados:
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</a>
+
+💻 Linguagens (aprendendo ou já tive contato):
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,java,php,js" />
+</a>
+
+⚙️ Ambientes & Ferramentas:
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=androidstudio,vscode,eclipse,git,github" />
+</a>
+
+📬 Contato
+
+* 💼 **LinkedIn:** [júlia-godinho](https://www.linkedin.com/in/júlia-godinho-936a95215)
+* ✉️ **E-mail:** [juliapgodinho11@gmail.com](mailto:juliapgodinho11@gmail.com)
+
+fique à vontade para me mandar uma mensagem ou trocar uma ideia! 🚀
